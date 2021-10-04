@@ -6,6 +6,6 @@ module.exports = {
     port: 443,
     secure: true,
   }],
-  prefix: 'nb!',
-  updateSlash: false,
+  prefix: 'dz!',
+  updateSlash: true,
 };
